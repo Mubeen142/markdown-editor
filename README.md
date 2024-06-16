@@ -1,10 +1,10 @@
 # Lightweight Markdown Editor
 
-## Flowbite
+## Flowbite (Dark & Light mode)
 ![image](https://github.com/Mubeen142/markdown-editor/assets/58806240/3f94efa9-3e21-4925-8c84-6bb77262afc9)
 [Open Pen](https://codepen.io/mubeen142/pen/KKLZoXr)
 
-## Tailwind
+## Tailwind (Dark & Light mode)
 ![image](https://github.com/Mubeen142/markdown-editor/assets/58806240/f93c6b57-8f97-43db-9922-a36ba17bc1d7)
 [Open Pen](https://codepen.io/mubeen142/pen/wvbpmPm)
 
